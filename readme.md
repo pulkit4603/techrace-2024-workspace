@@ -2,4 +2,4 @@
   - [x] Clues
   - [x] Hints
   - [x] All Power Ups
-- [] flutter-beacon Validator App
+- [-] flutter-beacon Validator App
