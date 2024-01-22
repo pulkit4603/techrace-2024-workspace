@@ -1,4 +1,4 @@
-- [ ] if team is frozen after entering beacon range; [23-01 night]
+- [ ] if team is frozen after entering beacon range; [24-01 night]
 - [ ] startDateTime -> 24 hours; [23-01 night]
 - [ ] time elapsed bar is empty; [23-01 night]
 - [ ] Power Card Info shorten, stylize, left align, lighter colour; [minor UI]
@@ -6,7 +6,7 @@
 - [ ] power card choosing screen should be a modal/dialogue; [24-01 night]
 - [ ] background should be blurred [minor UI]
 - [ ] put teamID on leaderboard (while searching [minor UI]
-- [ ] login functionality (sessions not working - should be saved) []
+- [ ] login functionality (sessions not working - should be saved) [24-01 night]
 - [ ] GameStates implementation (backend) [24-01 night]
 - [ ] registration screen [24-01 night]
 - [ ] front end error handling [23-01 night]
@@ -22,3 +22,5 @@
 - [ ] Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night]
 - [x] how is leaderboard affected by Add-Location powercard?
 - [ ] Mystery Card might be an inconvenient powercard [event team]
+- [ ] Randomizer to be set up [24-01 night]
+- [ ] Clue data to be set precisely with Haversine's help [event team]
