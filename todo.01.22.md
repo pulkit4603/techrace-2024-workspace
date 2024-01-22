@@ -2,4 +2,4 @@
 - [ ] getClue shouldn't ask for askTimestamp
 - [ ] fix error handling in game-controllers
 - [ ] getClue shouldn't update anything in the database either (it should only return the requested data).
-- [ ] don't be gay
+- [ ] don't be dumb
