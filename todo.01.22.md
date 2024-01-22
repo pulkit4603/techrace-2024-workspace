@@ -1,0 +1,5 @@
+- [ ] getClue shouldn't update points
+- [ ] getClue shouldn't ask for askTimestamp
+- [ ] fix error handling in game-controllers
+- [ ] getClue shouldn't update anything in the database either (it should only return the requested data).
+- [ ] 
