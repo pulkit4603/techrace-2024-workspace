@@ -1,0 +1,24 @@
+- [ ] if team is frozen after entering beacon range; [23-01 night]
+- [ ] startDateTime -> 24 hours; [23-01 night]
+- [ ] time elapsed bar is empty; [23-01 night]
+- [ ] Power Card Info shorten, stylize, left align, lighter colour; [minor UI]
+- [ ] clarify power card usage within app [minor UI]
+- [ ] power card choosing screen should be a modal/dialogue; [24-01 night]
+- [ ] background should be blurred [minor UI]
+- [ ] put teamID on leaderboard (while searching [minor UI]
+- [ ] login functionality (sessions not working - should be saved) []
+- [ ] GameStates implementation (backend) [24-01 night]
+- [ ] registration screen [24-01 night]
+- [ ] front end error handling [23-01 night]
+- [ ] app crash, front end logs out, backend(firestore) does not - fix it. [24-01 night]
+- [x] skip a location bug
+- [x] points not deducted immediately after power card usage
+- [x] (couldn't freeze location?)
+- [x] add location not working yet
+- [ ] invisibility cost mismatch in front and back end [minor UI]
+- [ ] hints to be hidden upon going to different/next clue [23-01 night]
+- [ ] Time elapsed not changing upon going to the next clue [23-01 night]
+- [ ] ReverseFreeze should work even if the perpetrating team is invisible [23-01 night]
+- [ ] Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night]
+- [x] how is leaderboard affected by Add-Location powercard?
+- [ ] Mystery Card might be an inconvenient powercard [event team]
