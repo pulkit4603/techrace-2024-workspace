@@ -1,6 +1,6 @@
 - [ ] if team is frozen after entering beacon range; [24-01 night]
 - [ ] startDateTime -> 24 hours; [23-01 night]
-- [ ] time elapsed bar is empty; [23-01 night]
+- [x] time elapsed bar is empty; [23-01 night]
 - [ ] Power Card Info shorten, stylize, left align, lighter colour; [minor UI]
 - [ ] clarify power card usage within app [minor UI]
 - [ ] power card choosing screen should be a modal/dialogue; [24-01 night]
@@ -17,11 +17,11 @@
 - [x] add location not working yet
 - [ ] invisibility cost mismatch in front and back end [minor UI]
 - [x] hints to be hidden upon going to different/next clue [23-01 night]
-- [ ] Time elapsed not changing upon going to the next clue [23-01 night]
+- [x] Time elapsed not changing upon going to the next clue [23-01 night]
 - [ ] ReverseFreeze should work even if the perpetrating team is invisible [23-01 night]
 - [ ] Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night]
 - [x] how is leaderboard affected by Add-Location powercard?
 - [ ] Mystery Card might be an inconvenient powercard [event team]
 - [ ] Randomizer to be set up [24-01 night]
 - [ ] Clue data to be set precisely with Haversine's help [event team]
-- [ ] hints and clues with different types (testing) [23-01 night]
+- [ ] _*new*_ hints and clues with different types (testing) [23-01 night]
