@@ -16,7 +16,7 @@
 - [x] (couldn't freeze location?)
 - [x] add location not working yet
 - [ ] invisibility cost mismatch in front and back end [minor UI]
-- [ ] hints to be hidden upon going to different/next clue [23-01 night]
+- [x] hints to be hidden upon going to different/next clue [23-01 night]
 - [ ] Time elapsed not changing upon going to the next clue [23-01 night]
 - [ ] ReverseFreeze should work even if the perpetrating team is invisible [23-01 night]
 - [ ] Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night]
@@ -24,3 +24,4 @@
 - [ ] Mystery Card might be an inconvenient powercard [event team]
 - [ ] Randomizer to be set up [24-01 night]
 - [ ] Clue data to be set precisely with Haversine's help [event team]
+- [ ] hints and clues with different types (testing) [23-01 night]
