@@ -24,4 +24,4 @@
 - [ ] Mystery Card might be an inconvenient powercard [event team]
 - [ ] Randomizer to be set up [24-01 night]
 - [ ] Clue data to be set precisely with Haversine's help [event team]
-- [ ] _*new*_ hints and clues with different types (testing) [23-01 night]
+- [ ] (_*new*_) hints and clues with different types (testing) [23-01 night]
