@@ -1,5 +1,5 @@
 - [ ] if team is frozen after entering beacon range; [24-01 night]
-- [ ] startDateTime -> 24 hours; [23-01 night]
+- [x] startDateTime -> 24 hours; [23-01 night]
 - [x] time elapsed bar is empty; [23-01 night]
 - [ ] Power Card Info shorten, stylize, left align, lighter colour; [minor UI]
 - [ ] clarify power card usage within app [minor UI]
