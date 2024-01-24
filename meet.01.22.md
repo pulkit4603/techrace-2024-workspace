@@ -4,7 +4,7 @@
 - [ ] _**priority**_ hints and clues with different types (testing) [23-01 night] - @mridula
 - [ ] _**priority**_ app crash, front end logs out, backend(firestore) does not - fix it. [24-01 night] [**LOGOUT**] = @pulkit
 - [ ] _**priority**_ Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night] = @mridula
-- [ ] _**priority**_ Randomizer to be set up [24-01 night] [**SCRIPTS**] = @pulkit
+- [ ] _**priority**_ Randomizer to be set up [24-01 night] [**SCRIPTS**] = @pulkit [after final routes shared]
 - [x] startDateTime -> 24 hours; [23-01 night]
 - [x] time elapsed bar is empty; [23-01 night]
 - [ ] Power Card Info shorten, stylize, left align, lighter colour; [**MINOR UI**]
