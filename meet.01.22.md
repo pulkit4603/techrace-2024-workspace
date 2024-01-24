@@ -1,6 +1,11 @@
 <h1>Deadlines</h1>
 
 - [ ] _**priority**_ if team is frozen after entering beacon range; [24-01 night] [**VALIDATOR**]
+- [ ] _**priority**_ hints and clues with different types (testing) [23-01 night]
+- [ ] _**priority**_ app crash, front end logs out, backend(firestore) does not - fix it. [24-01 night] [**LOGOUT**]
+- [ ] _**priority**_ Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night]
+- [ ] _**priority**_ Randomizer to be set up [24-01 night] [**SCRIPTS**]
+- [ ] _**priority**_ hints and clues with different types (testing) [23-01 night]
 - [x] startDateTime -> 24 hours; [23-01 night]
 - [x] time elapsed bar is empty; [23-01 night]
 - [ ] Power Card Info shorten, stylize, left align, lighter colour; [**MINOR UI**]
@@ -12,7 +17,6 @@
 - [x] GameStates implementation (backend) [24-01 night]
 - [x] registration screen [24-01 night]
 - [x] front end error handling [23-01 night]
-- [ ] _**priority**_ app crash, front end logs out, backend(firestore) does not - fix it. [24-01 night] [**LOGOUT**]
 - [x] skip a location bug
 - [x] points not deducted immediately after power card usage
 - [x] (couldn't freeze location?)
@@ -21,9 +25,6 @@
 - [x] hints to be hidden upon going to different/next clue [23-01 night]
 - [x] Time elapsed not changing upon going to the next clue [23-01 night]
 - [ ] ReverseFreeze should work even if the perpetrating team is invisible [23-01 night] [**EVENT TEAM**]
-- [ ] _**priority**_ Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night] 
 - [x] how is leaderboard affected by Add-Location powercard?
 - [ ] Mystery Card might be an inconvenient powercard [**EVENT TEAM**]
-- [ ] _**priority**_ Randomizer to be set up [24-01 night] [**SCRIPTS**]
 - [ ] Clue data to be set precisely with Haversine's help [**EVENT TEAM**]
-- [ ] _**priority**_ hints and clues with different types (testing) [23-01 night]
