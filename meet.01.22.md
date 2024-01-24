@@ -1,6 +1,6 @@
 <h1>Deadlines</h1>
 
-- [ ] _**priority**_ if team is frozen after entering beacon range; [24-01 night] [**VALIDATOR**]
+- [ ] _**priority**_ validator front end [24-01 night] [**VALIDATOR**]
 - [ ] _**priority**_ hints and clues with different types (testing) [23-01 night]
 - [ ] _**priority**_ app crash, front end logs out, backend(firestore) does not - fix it. [24-01 night] [**LOGOUT**]
 - [ ] _**priority**_ Add a powercarded-till/cooldown timer for the frozen/invisibled/any time-dependant-power-card'ed team [24-01 night]
